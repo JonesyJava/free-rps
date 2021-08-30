@@ -1,0 +1,16 @@
+C:\source\CSharp\free-rps\bin\Debug\net5.0\free-reps.exe
+C:\source\CSharp\free-rps\bin\Debug\net5.0\free-reps.deps.json
+C:\source\CSharp\free-rps\bin\Debug\net5.0\free-reps.runtimeconfig.json
+C:\source\CSharp\free-rps\bin\Debug\net5.0\free-reps.runtimeconfig.dev.json
+C:\source\CSharp\free-rps\bin\Debug\net5.0\free-reps.dll
+C:\source\CSharp\free-rps\bin\Debug\net5.0\ref\free-reps.dll
+C:\source\CSharp\free-rps\bin\Debug\net5.0\free-reps.pdb
+C:\source\CSharp\free-rps\obj\Debug\net5.0\free-reps.csprojAssemblyReference.cache
+C:\source\CSharp\free-rps\obj\Debug\net5.0\free-reps.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\CSharp\free-rps\obj\Debug\net5.0\free-reps.AssemblyInfoInputs.cache
+C:\source\CSharp\free-rps\obj\Debug\net5.0\free-reps.AssemblyInfo.cs
+C:\source\CSharp\free-rps\obj\Debug\net5.0\free-reps.csproj.CoreCompileInputs.cache
+C:\source\CSharp\free-rps\obj\Debug\net5.0\free-reps.dll
+C:\source\CSharp\free-rps\obj\Debug\net5.0\ref\free-reps.dll
+C:\source\CSharp\free-rps\obj\Debug\net5.0\free-reps.pdb
+C:\source\CSharp\free-rps\obj\Debug\net5.0\free-reps.genruntimeconfig.cache
